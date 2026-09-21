@@ -9,6 +9,7 @@
 <p>
   <a href="https://github.com/ShivayCodes"><img src="https://img.shields.io/badge/GitHub-ShivayCodes-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
   <a href="https://github.com/ShivayCodes?tab=repositories"><img src="https://img.shields.io/badge/Projects-Explore-0d1117?style=for-the-badge&logo=github" alt="Projects"></a>
+  <a href="https://x.com/Shubham_sri2000"><img src="https://img.shields.io/badge/X-@Shubham__sri2000-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
 </p>
 
 </div>
@@ -116,7 +117,7 @@ I try to:
 
 **ShivayCodes · Python · AI · Systems · Security**
 
-[GitHub](https://github.com/ShivayCodes)
+[GitHub](https://github.com/ShivayCodes) · [X / Twitter](https://x.com/Shubham_sri2000)
 
 </div>
 
