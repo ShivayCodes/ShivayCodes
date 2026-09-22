@@ -23,6 +23,28 @@
 
 ---
 
+## 📢 Owner Availability Notice
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&pause=900&color=58A6FF&center=true&vCenter=true&width=900&height=70&lines=%5B+NOTICE%5D+OWNER+CURRENTLY+AWAY+%E2%9C%88%EF%B8%8F;%5BFAMILY+VACATION%5D+SHORT+BREAK+%F0%9F%8C%B4;%5BRETURN%5D+AFTER+OCTOBER+3%2C+2026+%F0%9F%94%84;%5BNEXT%5D+PROJECTS+%E2%80%A2+RESEARCH+%E2%80%A2+TEAM+COLLABORATION+%F0%9F%A4%9D" alt="Owner availability notification">
+
+### 🟡 Currently Away
+
+**The owner is taking a one-week family vacation.**
+
+📅 **Expected return:** After **October 3, 2026**
+
+Upon return, work will resume on:
+
+**🚀 Projects** &nbsp; • &nbsp; **🔬 Research** &nbsp; • &nbsp; **🤝 Team Collaboration**
+
+> Thanks for your patience. Messages, issues, pull requests, and collaboration requests may receive a response after the break.
+
+</div>
+
+---
+
 ## ⚡ Who I Am
 
 I'm a developer focused on **Python, artificial intelligence, software systems, and cybersecurity**.
