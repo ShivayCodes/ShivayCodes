@@ -1,20 +1,20 @@
 <div align="center">
 
-<!-- Animated header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=SHUBHAM%20VARMA&fontSize=42&fontAlignY=35&animation=fadeIn&desc=Python%20%7C%20AI%2FML%20%7C%20Systems%20%7C%20Cybersecurity&descAlignY=58&descSize=18" width="100%" alt="Animated header">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=SHUBHAM%20VARMA&fontSize=44&fontAlignY=35&animation=twinkling&desc=PYTHON%20%E2%80%A2%20AI%2FML%20%E2%80%A2%20SYSTEMS%20%E2%80%A2%20CYBERSECURITY&descAlignY=60&descSize=17" width="100%" alt="Animated header">
 
-<!-- Animated typing -->
 <a href="https://github.com/ShivayCodes">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=Building+intelligent+systems+%F0%9F%A7%A0;Learning+how+technology+works+under+the+hood+%F0%9F%94%8E;Python+%7C+AI%2FML+%7C+Cybersecurity+%7C+Systems;Learn+%E2%86%92+Build+%E2%86%92+Test+%E2%86%92+Break+%E2%86%92+Improve+%F0%9F%94%A5" alt="Animated typing introduction">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=700&duration=2600&color=58A6FF&center=true&vCenter=true&width=850&height=70&lines=Building+intelligent+systems+%F0%9F%A7%A0;Engineering+with+Python+%F0%9F%90%8D;Exploring+AI%2C+systems+%26+cybersecurity+%F0%9F%94%90;Think+%E2%86%92+Build+%E2%86%92+Break+%E2%86%92+Learn+%E2%86%92+Improve+%F0%9F%94%A5" alt="Animated typing">
 </a>
 
 <br>
 
-<p>
-  <a href="https://github.com/ShivayCodes"><img src="https://img.shields.io/badge/GitHub-ShivayCodes-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
-  <a href="https://github.com/ShivayCodes?tab=repositories"><img src="https://img.shields.io/badge/Projects-Explore-0d1117?style=for-the-badge&logo=github" alt="Projects"></a>
-  <a href="https://x.com/Shubham_sri2000"><img src="https://img.shields.io/badge/X-@Shubham__sri2000-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
-</p>
+<a href="https://github.com/ShivayCodes"><img src="https://img.shields.io/badge/GitHub-ShivayCodes-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
+<a href="https://github.com/ShivayCodes?tab=repositories"><img src="https://img.shields.io/badge/Projects-Explore-0d1117?style=for-the-badge&logo=github" alt="Projects"></a>
+<a href="https://x.com/Shubham_sri2000"><img src="https://img.shields.io/badge/X-@Shubham__sri2000-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=ShivayCodes&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" alt="Profile views">
 
 </div>
 
@@ -26,7 +26,11 @@ I'm a developer focused on **Python, artificial intelligence, software systems, 
 
 I enjoy taking ideas apart, understanding the underlying mechanics, building experiments, and improving them through iteration.
 
-> **Learn → Build → Test → Break → Understand → Improve**
+<div align="center">
+
+**LEARN** → **BUILD** → **TEST** → **BREAK** → **UNDERSTAND** → **IMPROVE** → **REPEAT** ♻️
+
+</div>
 
 ---
 
@@ -34,20 +38,30 @@ I enjoy taking ideas apart, understanding the underlying mechanics, building exp
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" align="center">
 
 ### 🧠 JarvisX_System
+
 Local-first AI and knowledge-processing experiments.
 
-**Focus:** Python · retrieval · local data · intelligent systems
+**Python · Retrieval · Local Data · AI Systems**
+
+<a href="https://github.com/ShivayCodes/JarvisX_System">
+<img src="https://img.shields.io/badge/EXPLORE_PROJECT-58A6FF?style=for-the-badge" alt="Explore JarvisX_System">
+</a>
 
 </td>
-<td width="50%">
+<td width="50%" align="center">
 
 ### 🤖 JARVIS
-An experimental architecture for an intelligent assistant.
 
-**Focus:** algorithms · memory · retrieval · response generation
+Experimental architecture for an intelligent assistant.
+
+**Algorithms · Memory · Retrieval · Response Generation**
+
+<a href="https://github.com/ShivayCodes/JARVIS">
+<img src="https://img.shields.io/badge/EXPLORE_PROJECT-58A6FF?style=for-the-badge" alt="Explore JARVIS">
+</a>
 
 </td>
 </tr>
@@ -57,14 +71,14 @@ An experimental architecture for an intelligent assistant.
 
 ## ⚙️ Technology
 
-### Languages
+### 🐍 Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
-### AI · Data · Engineering
+### 🧠 AI · Data · Engineering
 
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-412991?style=flat-square&logo=scikitlearn&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
@@ -72,41 +86,53 @@ An experimental architecture for an intelligent assistant.
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
 
-### Security
+### 🔐 Security
 
 **Web Security · Linux · Networking · OWASP · Security Testing**
 
 ---
 
-## 🔬 Areas I'm Exploring
+## 🔬 Currently Exploring
 
-- 🐍 Advanced Python & software architecture
-- 🧠 Artificial intelligence & machine learning
-- 📐 Mathematics, algorithms & computational thinking
-- 🔐 Cybersecurity & web security
-- 🐧 Linux and system engineering
-- 🧩 Critical thinking and problem solving
+<div align="center">
+
+| 🐍 Python | 🧠 AI/ML | 🔐 Security |
+|:---:|:---:|:---:|
+| Architecture | Machine Learning | Web Security |
+| Algorithms | NLP | Networking |
+| Performance | AI Systems | Automation |
+
+</div>
 
 ---
 
-## 🗺️ Learning Roadmap
+## 🗺️ Learning System
+
+<div align="center">
 
 ```
-FOUNDATIONS
-Python · Git · Linux · Algorithms
-        ↓
-INTELLIGENCE
-ML · NLP · AI Systems · Data
-        ↓
-SYSTEMS
-APIs · Databases · Backend · Architecture
-        ↓
-SECURITY
-Web Security · OWASP · Networking · Automation
-        ↓
-ENGINEERING
-Reliable · Testable · Understandable Systems
+╔══════════════╗
+║  FOUNDATIONS ║  Python • Git • Linux • Algorithms
+╚══════╤═══════╝
+       ▼
+╔══════════════╗
+║ INTELLIGENCE ║  ML • NLP • AI Systems • Data
+╚══════╤═══════╝
+       ▼
+╔══════════════╗
+║   SYSTEMS    ║  APIs • Databases • Backend • Architecture
+╚══════╤═══════╝
+       ▼
+╔══════════════╗
+║   SECURITY   ║  Web • OWASP • Networking • Automation
+╚══════╤═══════╝
+       ▼
+╔══════════════╗
+║ ENGINEERING  ║  Reliable • Testable • Understandable
+╚══════════════╝
 ```
+
+</div>
 
 ---
 
@@ -115,10 +141,10 @@ Reliable · Testable · Understandable Systems
 <div align="center">
 
 <a href="https://github.com/ShivayCodes">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ShivayCodes&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true" alt="Shubham's GitHub statistics">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ShivayCodes&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true" alt="GitHub statistics">
 </a>
 <a href="https://github.com/ShivayCodes">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivayCodes&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Top languages">
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivayCodes&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Top languages">
 </a>
 
 <br><br>
@@ -127,7 +153,25 @@ Reliable · Testable · Understandable Systems
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShivayCodes&theme=github-compact&hide_border=true&area=true" alt="GitHub activity graph" width="95%">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShivayCodes&theme=github-compact&hide_border=true&area=true&radius=12" alt="GitHub activity graph" width="96%">
+
+<br><br>
+
+<a href="https://github.com/ShivayCodes">
+<img src="https://github-profile-trophy.vercel.app/?username=ShivayCodes&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub trophies">
+</a>
+
+</div>
+
+---
+
+## 🐍 Contribution Activity
+
+<div align="center">
+
+<a href="https://github.com/ShivayCodes">
+<img src="https://raw.githubusercontent.com/ShivayCodes/ShivayCodes/output/github-contribution-grid-snake.svg" alt="Animated contribution snake" width="95%">
+</a>
 
 </div>
 
@@ -135,9 +179,11 @@ Reliable · Testable · Understandable Systems
 
 ## 🎯 Engineering Principles
 
-**Understand the system before optimizing it.**
+<div align="center">
 
-I try to:
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1100&color=8B949E&center=true&vCenter=true&width=750&lines=Understand+the+system+before+optimizing+it.;Ask+better+questions.;Test+assumptions.;Analyze+failures.;Improve+the+system.;Repeat." alt="Engineering principles">
+
+</div>
 
 1. Ask better questions.
 2. Understand fundamentals.
@@ -149,28 +195,34 @@ I try to:
 
 ---
 
-## 📫 Connect
+## 📡 Current Mode
 
 <div align="center">
 
-**ShivayCodes · Python · AI · Systems · Security**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=900&color=58A6FF&center=true&vCenter=true&width=850&height=80&lines=%5B+SYSTEM+ONLINE+%5D;%5B+LEARNING+MODE%3A+ACTIVE+%5D;%5B+BUILDING+MODE%3A+ACTIVE+%5D;%5B+1%25+IMPROVEMENT+LOOP%3A+RUNNING+%5D" alt="Animated system status">
 
-[GitHub](https://github.com/ShivayCodes) · [X / Twitter](https://x.com/Shubham_sri2000)
+<br>
+
+`██████████████████████████████████████████████████` **100% LEARNING**
 
 </div>
 
 ---
 
+## 📫 Connect
+
 <div align="center">
 
-### ⚡ Current Mode
+<a href="https://github.com/ShivayCodes">GitHub</a>
+&nbsp; • &nbsp;
+<a href="https://x.com/Shubham_sri2000">X / Twitter</a>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1200&color=8B949E&center=true&vCenter=true&width=600&lines=Learning+1%25+every+day.;Turning+questions+into+experiments.;Building%2C+breaking%2C+and+understanding+systems." alt="Animated current mode">
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=45&text=BUILDING%20IN%20PUBLIC%20%E2%80%A2%20LEARNING%20CONTINUOUSLY%20%E2%80%A2%20IMPROVING%201%25%20AT%20A%20TIME&fontSize=14&animation=twinkling" width="100%" alt="Animated footer banner">
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&animation=fadeIn" width="100%" alt="Animated footer">
-
-<sub>Building in public · Learning continuously · Improving 1% at a time</sub>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&animation=twinkling" width="100%" alt="Animated footer">
 
 </div>
