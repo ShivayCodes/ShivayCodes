@@ -1,16 +1,19 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=SHUBHAM%20VARMA&fontSize=44&fontAlignY=35&animation=twinkling&desc=PYTHON%20%E2%80%A2%20AI%2FML%20%E2%80%A2%20SYSTEMS%20%E2%80%A2%20CYBERSECURITY&descAlignY=60&descSize=17" width="100%" alt="Animated header">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=SHUBHAM%20VARMA&fontSize=50&fontAlignY=35&animation=fadeIn&desc=PYTHON%20%E2%80%A2%20AI%2FML%20%E2%80%A2%20SYSTEMS%20%E2%80%A2%20CYBERSECURITY&descAlignY=61&descSize=17" width="100%" alt="Animated profile header">
 
-<a href="https://github.com/ShivayCodes">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=700&duration=2600&color=58A6FF&center=true&vCenter=true&width=850&height=70&lines=Building+intelligent+systems+%F0%9F%A7%A0;Engineering+with+Python+%F0%9F%90%8D;Exploring+AI%2C+systems+%26+cybersecurity+%F0%9F%94%90;Think+%E2%86%92+Build+%E2%86%92+Break+%E2%86%92+Learn+%E2%86%92+Improve+%F0%9F%94%A5" alt="Animated typing">
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=23&pause=650&duration=2200&color=58A6FF&center=true&vCenter=true&width=900&height=75&lines=Hello%2C+I'm+Shubham+%F0%9F%91%8B;Python+Developer+%F0%9F%90%8D;Building+AI+%26+Systems+%F0%9F%A7%A0;Exploring+Cybersecurity+%F0%9F%94%90;Learning+%E2%86%92+Building+%E2%86%92+Testing+%E2%86%92+Improving+%F0%9F%9A%80" alt="Animated introduction">
 
 <br>
 
-<a href="https://github.com/ShivayCodes"><img src="https://img.shields.io/badge/GitHub-ShivayCodes-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
-<a href="https://github.com/ShivayCodes?tab=repositories"><img src="https://img.shields.io/badge/Projects-Explore-0d1117?style=for-the-badge&logo=github" alt="Projects"></a>
-<a href="https://x.com/Shubham_sri2000"><img src="https://img.shields.io/badge/X-@Shubham__sri2000-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
+<img src="https://img.shields.io/badge/FOCUS-Python%20%7C%20AI%2FML%20%7C%20Systems%20%7C%20Cybersecurity-58A6FF?style=for-the-badge&labelColor=0D1117" alt="Focus areas">
+<img src="https://img.shields.io/badge/MINDSET-1%25%20BETTER%20EVERY%20DAY-8B949E?style=for-the-badge&labelColor=0D1117" alt="Learning mindset">
+
+<br><br>
+
+<a href="https://github.com/ShivayCodes"><img src="https://img.shields.io/badge/GitHub-Explore%20Profile-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
+<a href="https://github.com/ShivayCodes?tab=repositories"><img src="https://img.shields.io/badge/Projects-Browse-0d1117?style=for-the-badge&logo=github" alt="Projects"></a>
+<a href="https://x.com/Shubham_sri2000"><img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
 
 <br><br>
 
@@ -20,18 +23,35 @@
 
 ---
 
-## 🧠 About
+## ⚡ Who I Am
 
 I'm a developer focused on **Python, artificial intelligence, software systems, and cybersecurity**.
 
-I enjoy taking ideas apart, understanding the underlying mechanics, building experiments, and improving them through iteration.
+I like understanding how systems work internally—not just making them work. I learn through **experiments, projects, testing, debugging, and iteration**.
 
 <div align="center">
 
-**LEARN** → **BUILD** → **TEST** → **BREAK** → **UNDERSTAND** → **IMPROVE** → **REPEAT** ♻️
+### THINK → BUILD → TEST → BREAK → UNDERSTAND → IMPROVE → REPEAT
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=900&color=8B949E&center=true&vCenter=true&width=820&lines=Curiosity+%E2%86%92+Questions;Questions+%E2%86%92+Experiments;Experiments+%E2%86%92+Evidence;Evidence+%E2%86%92+Understanding;Understanding+%E2%86%92+Better+Systems" alt="Animated learning loop">
 
 </div>
 
+---
+
+## 🧭 What You'll Find Here
+
+<div align="center">
+
+| 🧠 Learn | 🛠️ Build | 🔬 Experiment | 🔐 Explore |
+|:---:|:---:|:---:|:---:|
+| Python & Algorithms | AI Systems | Performance | Web Security |
+| Mathematics | Backend Systems | Debugging | Networking |
+| AI/ML Concepts | Automation | Testing | Linux |
+
+</div>
+
+---
 ---
 
 ## 🚀 What I'm Building
@@ -195,7 +215,7 @@ Experimental architecture for an intelligent assistant.
 
 ---
 
-## 📡 Current Mode
+## 📡 System Status
 
 <div align="center">
 
@@ -206,6 +226,28 @@ Experimental architecture for an intelligent assistant.
 `██████████████████████████████████████████████████` **100% LEARNING**
 
 </div>
+
+---
+
+## 🔒 Privacy & Security
+
+<div align="center">
+
+**PUBLIC PROFILE • NO SECRETS • NO CREDENTIALS • NO PRIVATE DATA**
+
+</div>
+
+This profile is designed to expose only public professional and project information.
+
+Never commit or publish:
+
+- API keys, passwords, access tokens, cookies, or session data
+- SSH private keys, cloud credentials, certificates, or signing keys
+- Real `.env` files containing secrets
+- Personal documents, addresses, phone numbers, or sensitive identifiers
+- Database dumps or logs containing private user information
+
+Use placeholders such as `YOUR_API_KEY` in public examples and keep real secrets outside Git.
 
 ---
 
