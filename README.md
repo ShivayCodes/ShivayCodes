@@ -21,17 +21,6 @@
 
 </div>
 
----
-
-## 🎭 Career Caricature
-
-<div align="center">
-
-<img src="./assets/shubham-career-caricature.jpg" width="720" alt="Caricature of Shubham as a technology builder, AI learner, and cybersecurity enthusiast">
-
-> **Build → Learn → Secure → Grow**
-
-</div>
 
 ---
 
