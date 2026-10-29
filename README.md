@@ -55,39 +55,6 @@ I like understanding how systems work internally—not just making them work. I 
 ---
 ---
 
-## 🚀 What I'm Building
-
-<table>
-<tr>
-<td width="50%" align="center">
-
-### 🧠 JarvisX_System
-
-Local-first AI and knowledge-processing experiments.
-
-**Python · Retrieval · Local Data · AI Systems**
-
-<a href="https://github.com/ShivayCodes/JarvisX_System">
-<img src="https://img.shields.io/badge/EXPLORE_PROJECT-58A6FF?style=for-the-badge" alt="Explore JarvisX_System">
-</a>
-
-</td>
-<td width="50%" align="center">
-
-### 🤖 JARVIS
-
-Experimental architecture for an intelligent assistant.
-
-**Algorithms · Memory · Retrieval · Response Generation**
-
-<a href="https://github.com/ShivayCodes/JARVIS">
-<img src="https://img.shields.io/badge/EXPLORE_PROJECT-58A6FF?style=for-the-badge" alt="Explore JARVIS">
-</a>
-
-</td>
-</tr>
-</table>
-
 ---
 
 ## ⚙️ Technology
