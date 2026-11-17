@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=SHUBHAM%20VARMA&fontSize=50&fontAlignY=35&animation=fadeIn&desc=PYTHON%20%E2%80%A2%20AI%20ENGINEERING%20%E2%80%A2%20SOFTWARE%20SYSTEMS%20%E2%80%A2%20CYBERSECURITY&descAlignY=61&descSize=15" width="100%" alt="Shubham Varma profile banner">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=210&section=header&text=SHUBHAM%20VARMA&fontSize=50&fontAlignY=35&animation=fadeIn&desc=PYTHON%20%E2%80%A2%20AI%20RESEARCH%20%E2%80%A2%20SOFTWARE%20ENGINEERING%20%E2%80%A2%20CYBERSECURITY&descAlignY=61&descSize=15" width="100%" alt="Shubham Varma profile banner">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=900&duration=2300&color=58A6FF&center=true&vCenter=true&width=900&height=70&lines=Building+with+Python;Exploring+Offline+AI+%26+Intelligent+Systems;Engineering+Secure+%26+Reliable+Software;Learn+%E2%86%92+Build+%E2%86%92+Test+%E2%86%92+Improve" alt="Animated introduction">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=900&duration=2300&color=58A6FF&center=true&vCenter=true&width=850&height=65&lines=Learning+Python+%26+Software+Engineering;Exploring+AI+Systems+%26+Reasoning;Studying+Cybersecurity+%26+Mathematics;Learn+%E2%86%92+Build+%E2%86%92+Test+%E2%86%92+Improve" alt="Animated introduction">
 
 <br>
 
@@ -24,108 +24,69 @@
 
 ## 👋 About Me
 
-I'm **Shubham Varma**, a self-directed developer focused on Python, AI engineering, software systems, and cybersecurity.
+I'm **Shubham Varma**, a self-directed learner interested in Python development, AI systems, software engineering, and cybersecurity.
 
-I learn by turning ideas into small, testable projects. I care about understanding how systems work, writing maintainable code, testing assumptions, and being transparent about what is implemented versus what is still research.
+I focus on building strong fundamentals, understanding how systems work, and improving through practical experiments. I value clear documentation, honest project status, and evidence over unsupported claims.
 
-**Engineering mindset:** Understand → Design → Build → Test → Review → Improve.
+**My approach:** Understand → Design → Build → Test → Review → Improve.
 
-## 🚀 Current Projects & Directions
+## 🚀 Public Project
 
-### 1. U.L.T.R.O.N 1.0 — Local AI Assistant
+### [QELVARITH — Multi-Agent AI Research](https://github.com/ShivayCodes/QELVARITH)
 
-A Python desktop-assistant project exploring local knowledge retrieval, persistent memory, conversational interfaces, and optional model integrations.
+A research repository exploring the design of a modular, multi-agent AI ecosystem.
 
-Areas represented in the project documentation:
-- Desktop chat interface and configurable model providers.
-- Local conversation memory and searchable knowledge.
-- Offline retrieval fallback and local data ingestion.
-- Permission-aware tools and bounded arithmetic evaluation.
-- Continued work on reliability, security, and maintainability.
+**Research topics:**
+- Agent coordination and task decomposition.
+- Memory and knowledge retrieval.
+- Reasoning, planning, and decision verification.
+- Simulation and evaluation.
+- Tool permissions and safety boundaries.
 
-Repository: [U.L.T.R.O.N 1.0](https://github.com/ShivayCodes/U.L.T.R.O.N-1.0)
+**Status:** Concept and early research documentation. This is not a completed multi-agent product or a claim of achieved AGI.
 
-### 2. SENTRAFORGE / SiteSentinel — Website Security Intelligence
+## 🧭 Technical Interests
 
-An early-stage product direction focused on helping small businesses and agencies understand website health and basic security posture.
-
-**Planned MVP capabilities:**
-- Website uptime and availability monitoring.
-- SSL certificate and DNS checks.
-- Security-header inspection.
-- Risk scoring, alerts, and understandable reports.
-
-**Proposed stack:** React, TypeScript, Tailwind CSS, Python, FastAPI, PostgreSQL, SQLAlchemy, and APScheduler.
-
-**Current stage:** Product planning and architecture. These capabilities are proposed scope, not claims of a completed production service. The intended approach is passive, authorized website assessment.
-
-### 3. Offline Personal AI Tutor — Research & Prototyping
-
-Exploring a private, offline-first assistant for learning mathematics, Python, programming, and cybersecurity.
-
-Research areas:
-- Local language-model inference with llama.cpp and compact GGUF models.
-- Local knowledge collections and retrieval-augmented generation (RAG).
-- SQLite-backed conversation memory.
-- A lightweight Python-based interface.
-
-**Current stage:** Architecture exploration and learning. The goal is to keep data and inference local wherever practical.
-
-### 4. QELVARITH — Multi-Agent AI Research
-
-A long-term research direction for a modular multi-agent intelligence ecosystem.
-
-Exploring agent coordination, memory, planning, reasoning, verification, simulation, and evaluation.
-
-**Current stage:** Concept and research documentation.
-
-Repository: [QELVARITH](https://github.com/ShivayCodes/QELVARITH)
-
-## 🧭 Technical Focus
-
-| Domain | Current learning and development |
+| Area | Focus |
 |---|---|
-| Python | Programming fundamentals, modular design, automation, testing |
-| AI engineering | Local inference, RAG, memory, model integration, evaluation |
-| Software engineering | APIs, databases, architecture, reliability |
+| Python | Programming fundamentals, problem solving, automation |
+| AI engineering | Local AI, RAG, memory, reasoning, model evaluation |
+| Software engineering | APIs, databases, architecture, testing |
 | Cybersecurity | Networking, Linux, web security, defensive testing |
-| Mathematics & algorithms | Strong foundations for programming and machine learning |
+| Mathematics | Logic, algorithms, and foundations for machine learning |
 
 ## 🛠️ Technologies
 
-**Working with / learning**
+**Languages and tools I use or am learning**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
-I distinguish tools I actively use from technologies I am still learning; badges do not imply professional mastery.
+These badges represent areas of use or learning, not a claim of professional mastery.
 
-## 🧠 How I Learn & Build
+## 🧠 How I Learn
 
-1. Strengthen fundamentals before depending on abstractions.
-2. Break complex problems into smaller components.
-3. Build working prototypes and test them.
-4. Measure results instead of assuming success.
-5. Review edge cases, security, and failure modes.
-6. Document what worked, what failed, and what comes next.
+1. Strengthen fundamentals before relying on abstractions.
+2. Break difficult problems into smaller parts.
+3. Practice through small, testable implementations.
+4. Check results instead of assuming something works.
+5. Learn from errors, edge cases, and security failures.
+6. Document progress and improve incrementally.
 
-> Improve by 1% every day. Think independently, build deliberately, and verify with evidence.
+> Think independently. Build deliberately. Improve 1% at a time.
 
 ## 🔐 Responsible Engineering
 
-- Test only systems and applications I own or am authorized to assess.
-- Keep credentials, tokens, private keys, and environment secrets out of repositories.
-- Prefer isolated development environments and least-privilege permissions.
-- Treat external data and AI-generated output as untrusted until verified.
-- Prioritize privacy, reproducibility, and transparent limitations.
+- Test only systems I own or am authorized to assess.
+- Keep credentials, tokens, and private keys out of repositories.
+- Use isolated environments and least-privilege permissions.
+- Verify external information and AI-generated output.
+- Be transparent about project status, limitations, and results.
 
 ## 📊 GitHub Activity
 
